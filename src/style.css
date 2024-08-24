@@ -20,6 +20,12 @@ h1 {
     font-size: 14px;
 }
 
+.subtitulo {
+    background-color: #c6c8e8;
+    margin-top: 0;
+    color: #005aad;
+}
+
 h2 {
     color: #005aad;
     background-color: #d7d7d7;
@@ -68,10 +74,12 @@ li {
     background-color: #d7d7d7;
     padding: 12px;
     display: block;
+    color: #005aad;
 }
 
 .menu a:hover {
     background-color: #333;
+    /*opção de background-color: #005aad;*/
     color: #fff;
     text-decoration: none;
 }
